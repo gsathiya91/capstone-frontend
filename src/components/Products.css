@@ -1,0 +1,13 @@
+.productimage{
+    height: 350px;
+    width: 365px;
+}
+.content{
+    padding: 15px;
+    font-weight: 700;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;    
+}
